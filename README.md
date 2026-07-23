@@ -22,7 +22,7 @@ Run the mysql_secure_installation script.
 
 $sudo mysql_secure_installation
 ```
-
+d
 Below is a guide showing my script selections when creating this application. Feel free to select as you best see fit to match your own security requirements. Since this is a deliberately insecure application, careful thought should be given for other deployment types requiring better security:
 
 ```
